@@ -10,6 +10,7 @@ body {
 main {
   max-width: 640px;
   padding: 36px;
+  margin-inline: auto;
 }
 
 .header {
