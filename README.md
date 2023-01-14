@@ -14,7 +14,7 @@
 
 #### Desktop
 
-![screenshot of Huddle desktop website](src/images/screenshots/desktop.png)
+![screenshot of Meme Generator desktop website](src/images/screenshots/desktop.png)
 
 #### Mobile
 
@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/bnielsencodes/Huddle](https://github.com/bnielsencodes/meme-generator)
-- Live Site URL: [https://bnielsen.dev/Huddle](https://bnielsen.dev/meme-generator)
+- Solution URL: [https://github.com/bnielsencodes/meme-generator](https://github.com/bnielsencodes/meme-generator)
+- Live Site URL: [https://bnielsen.dev/meme-generator](https://bnielsen.dev/meme-generator)
 
 ### Built with
 
