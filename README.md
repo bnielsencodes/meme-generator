@@ -1,5 +1,7 @@
 # Meme Generator
 
+#### Generates random meme images you can add text to.
+
 ## Table of Contents
 
 - [Overview](#overview)
