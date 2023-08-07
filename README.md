@@ -1,10 +1,10 @@
-# Meme Generator - Scrimba React Course Project
+# Meme Generator
 
 ## Table of Contents
 
 - [Overview](#overview)
   - [Screenshots](#screenshots)
-  - [Links](#links)
+  - [Link](#link)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -20,22 +20,23 @@
 
 <img src="src/images/screenshots/mobile.png" alt="screenshot of Meme Generator mobile website" width="300">
 
-### Links
+### Link
 
-- Solution URL: [https://github.com/bnielsencodes/meme-generator](https://github.com/bnielsencodes/meme-generator)
-- Live Site URL: [https://bnielsen.dev/meme-generator](https://bnielsen.dev/meme-generator)
+- Live Site URL: [https://bnielsencodes.github.io/meme-generator](https://bnielsencodes.github.io/meme-generator)
 
 ### Built with
 
-- React
-- Create React App
-- Semantic HTML5 markup
-- Flexbox
-- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Create React App](https://create-react-app.dev/) - React Build Tool
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Semantic HTML5 markup](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Mobile-first workflow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [VS Code](https://code.visualstudio.com/) - Integrated development environment
 
 ## Author
 
-- Website - [Brandon Nielsen](https://www.bnielsen.dev)
-- LinkedIn - [Brandon Nielsen](https://www.linkedin.com/in/bnielsencodes)
+- Portfolio Website - [bnielsen.dev](https://bnielsen.dev)
+- LinkedIn - [/in/bnielsencodes](https://linkedin.com/in/bnielsencodes)
 - Twitter - [@bnielsencodes](https://twitter.com/bnielsencodes)
 - Frontend Mentor - [@bnielsencodes](https://www.frontendmentor.io/profile/bnielsencodes)
